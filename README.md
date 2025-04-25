@@ -1,12 +1,10 @@
-<h2>hii, Priti this side..</h2>
+<h2> 👋Hii, Priti this side..</h2>
 <br>
-## Hi there! 👋
 
-I'm **Priti**, a passionate developer and an eager tech bee! 🌼 I'm constantly exploring the world of technology and innovation. Let's build the future, one commit at a time!
 
-## Hi there! 👋
+## HII TECHIES! 👋
 
-I'm **Priti**, a passionate developer and an eager tech bee! 🌼 I'm constantly exploring the world of technology and innovation. Let's build the future, one commit at a time!
+As a passionate developer and an eager tech bee! 🌼 I'm constantly exploring the world of technology and innovation. Let's build the future, one commit at a time!
 
 ## About Me
 
