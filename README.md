@@ -51,6 +51,7 @@ Check out my articles on [Medium](https://medium.com/@priti90066). Stay tuned fo
 ## Connect with Me
 
 {"generic":"https://medium.com/@priti90066","instagram":"https://www.instagram.com/priti90066"}
+<h1>thanks for visiting !!</h1>
 
 <!---
 pr-iti/pr-iti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
