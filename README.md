@@ -12,11 +12,49 @@ I'm currently diving deep into web development, data structures and algorithms (
 
 ## Skills & Technologies
 
-react,c,css,bootstrap,tailwind,nodejs,mongodb,express,discord,cpp,cs,git,github,html,js
+### 🚀 Tech Stack
+
+
+**Languages**  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++ (OOP)](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Database**  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**DevOps & Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 
 ## Top Projects
 
 - [10-30foofdeliveryapp](https://github.com/pr-iti/10-30foofdeliveryapp) 
+  A food delivery application built with **JavaScript**,**react**, and with full backend touch. 
+  ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
+
+- [myvsccode](https://github.com/pr-iti/myvsccode) 
+  A personal project showcasing my VS Code configurations, developed in **C++**. 
+  ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
+
+- [pr-iti](https://github.com/pr-iti/pr-iti) 
+  Config files for my GitHub profile. 
+  ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
+
+  - [10-30foofdeliveryapp](https://github.com/pr-iti/10-30foofdeliveryapp) 
   A food delivery application built with **JavaScript**. 
   ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
 
