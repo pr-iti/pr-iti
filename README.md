@@ -49,22 +49,15 @@ I'm currently diving deep into web development, data structures and algorithms (
 - [myvsccode](https://github.com/pr-iti/myvsccode) 
   A personal project showcasing my VS Code configurations, developed in **C++**. 
   ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
-
-- [pr-iti](https://github.com/pr-iti/pr-iti) 
-  Config files for my GitHub profile. 
-  ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
-
-  - [10-30foofdeliveryapp](https://github.com/pr-iti/10-30foofdeliveryapp) 
-  A food delivery application built with **JavaScript**. 
-  ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
-
-- [myvsccode](https://github.com/pr-iti/myvsccode) 
-  A personal project showcasing my VS Code configurations, developed in **C++**. 
+- [System  Design](https://github.com/pr-iti/systemdesign) 
+ the ultimate system Design course with all the codes and understanding of each and every line of the code.
   ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
 
 - [pr-iti](https://github.com/pr-iti/pr-iti) 
   Config files for my GitHub profile. 
   ⭐ 0 stars | 🍴 0 forks | 🐛 0 open issues
+
+
 
 ## GitHub Stats
 
