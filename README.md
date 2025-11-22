@@ -13,10 +13,11 @@
 
 ---
 
+---
+
 <!-- ====== SOCIALS ====== -->
 ## 🌐 Connect With Me  
 <p align="left">
-  
   <a href="https://medium.com/@priti90066"><img src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/priti-kumari-78833925b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
   <a href="mailto:priti90066@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
@@ -27,8 +28,6 @@
 <!-- ====== TECH STACK ====== -->
 ## 💻 Tech Stack  
 
-
-
 ### 🛠️ **Backend**
 `Node.js` `Express.js` `FastAPI`  
 `Socket.io` `JWT`
@@ -36,10 +35,8 @@
 ### 🗄️ **Databases**
 `MongoDB` `SQLite` `Postgres Sql`
 
-
-
 ### 🎨 **Design & Tools**
- `Canva`  
+`Canva`  
 `NPM` `Nodemon`
 
 ---
@@ -51,12 +48,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr-iti&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-
-
 ---
 
 <!-- ====== TROPHIES ====== -->
-
 
 ---
 
@@ -81,6 +75,17 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=pr-iti&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
 </p>
+
+---
+<!-- ====== FEEDBACK SECTION ====== -->
+## 📝 Feedback
+
+
+👉 **[Click here](https://forms.gle/PK8xnSDTv4iYZyd5A)**  
+
+
+### ⭐ GitHub Issues Feedback
+👉 **[Submit Feedback via GitHub Issue](https://github.com/pr-iti/pr-iti/issues/new?template=feedback.md)**  
 
 ---
 
