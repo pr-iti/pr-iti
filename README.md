@@ -24,6 +24,15 @@
 </p>
 
 ---
+- 🔭 Currently learning: **Django REST Framework (DRF)**, **NumPy**, **Advanced Python**
+- 🌱 Exploring: **APIs**, **Data Cleaning**, **Automation**
+- 💼 Interested in: Backend Development, Data Engineering
+- 💬 Ask me about: Python, DRF, NumPy, File Handling, Logging, Data Cleaning
+- 🎯 Goal: Build impactful projects & contribute to open source
+
+---
+
+
 
 <!-- ====== TECH STACK ====== -->
 ## 💻 Tech Stack  
@@ -38,6 +47,25 @@
 ### 🎨 **Design & Tools**
 `Canva`  
 `NPM` `Nodemon`
+
+---
+## 📘 Current Projects
+- **Data Cleaning Automation Tool (NumPy-based)**
+- **Django REST Framework learning series**
+- **Python utilities collection**
+
+### **Languages**
+- Python 🐍  
+- JavaScript  
+- SQL  
+
+### **Frameworks & Tools**
+- Django / DRF  
+- NumPy  
+- Pandas  
+- Git & GitHub  
+- VS Code  
+- Postman  
 
 ---
 
