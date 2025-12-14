@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <h1 align="center">💫 Hi there, I'm <strong>Priti Kumari </strong> 👋</h1>
-<h3 align="center">✨ A Passionate Backend Engineer & Web Developer at <strong> Fonix Technologies </strong> ✨</h3>
+<h3 align="center">✨ A Passionate Backend Engineer & Web Developer ✨</h3>
 
 <br/>
 
