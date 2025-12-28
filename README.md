@@ -8,7 +8,7 @@
   📩 <strong>Email Me:</strong>  
   <a href="mailto:priti90066@gmail.com">priti90066@gmail.com</a>  
   <br/>
-  For Collaboration / Projects / Anything Else 😊  
+  For Collaboration / Projects  😊  
 </p>
 
 ---
