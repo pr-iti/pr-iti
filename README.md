@@ -6,7 +6,7 @@
 
 <p align="center">
   📩 <strong>Email Me:</strong>  
-  <a href="mailto:priti90066@gmail.com">priti90066@gmail.com</a>  
+  <a href="mailto:priti.backend.dev@gmail.com">priti.backend.dev@gmail.com</a>  
   <br/>
   For Collaboration / Projects  😊  
 </p>
@@ -20,7 +20,7 @@
 <p align="left">
   <a href="https://medium.com/@priti90066"><img src="https://img.shields.io/badge/Medium-%230077B5.svg?logo=Medium&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/priti-kumari-78833925b/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:priti90066@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+  <a href="mailto:priti.backend.dev@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
